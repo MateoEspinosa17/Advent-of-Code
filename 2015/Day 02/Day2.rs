@@ -1,10 +1,10 @@
 use std::fs::File;
-use std::io::{self, prelude::*, BufReader};
+use std::io::{ prelude::*, BufReader};
 
 fn get_ribon_length(l:u32, w:u32, h:u32) -> u32
 {
     let ribon_lenght:u32 = l * w * h;
-    let mut min:u32;
+    let min:u32;
     
     if l > w
     {
@@ -32,7 +32,7 @@ fn get_ribon_length(l:u32, w:u32, h:u32) -> u32
     return ribon_lenght + min;
 }
 
-fn main() -> io::Result<()>
+fn main()
 {
     let mut length:u32 = 0;
     let mut width:u32 = 0;
@@ -94,6 +94,4 @@ fn main() -> io::Result<()>
 
     println!("Total Area is: {total_area} square feet.");
     println!("Ribon's Lenght is: {ribon} feet.");
-
-    return Ok(());
 }
