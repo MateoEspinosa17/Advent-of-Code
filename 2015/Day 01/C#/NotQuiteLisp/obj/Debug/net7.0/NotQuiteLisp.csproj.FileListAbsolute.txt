@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\bin\Debug\net7.0\NotQuiteLisp.exe
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\bin\Debug\net7.0\NotQuiteLisp.deps.json
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\bin\Debug\net7.0\NotQuiteLisp.runtimeconfig.json
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\bin\Debug\net7.0\NotQuiteLisp.dll
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\bin\Debug\net7.0\NotQuiteLisp.pdb
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\NotQuiteLisp.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\NotQuiteLisp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\NotQuiteLisp.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\NotQuiteLisp.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\NotQuiteLisp.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\NotQuiteLisp.dll
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\refint\NotQuiteLisp.dll
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\NotQuiteLisp.pdb
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\NotQuiteLisp.genruntimeconfig.cache
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\01\C#\NotQuiteLisp\obj\Debug\net7.0\ref\NotQuiteLisp.dll

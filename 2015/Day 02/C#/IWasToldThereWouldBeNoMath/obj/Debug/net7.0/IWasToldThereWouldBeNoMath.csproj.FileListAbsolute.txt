@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\bin\Debug\net7.0\IWasToldThereWouldBeNoMath.exe
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\bin\Debug\net7.0\IWasToldThereWouldBeNoMath.deps.json
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\bin\Debug\net7.0\IWasToldThereWouldBeNoMath.runtimeconfig.json
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\bin\Debug\net7.0\IWasToldThereWouldBeNoMath.dll
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\bin\Debug\net7.0\IWasToldThereWouldBeNoMath.pdb
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\IWasToldThereWouldBeNoMath.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\IWasToldThereWouldBeNoMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\IWasToldThereWouldBeNoMath.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\IWasToldThereWouldBeNoMath.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\IWasToldThereWouldBeNoMath.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\IWasToldThereWouldBeNoMath.dll
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\refint\IWasToldThereWouldBeNoMath.dll
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\IWasToldThereWouldBeNoMath.pdb
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\IWasToldThereWouldBeNoMath.genruntimeconfig.cache
+C:\Users\mateo\OneDrive\Documentos\AdventOfCode\2015\02\C#\IWasToldThereWouldBeNoMath\obj\Debug\net7.0\ref\IWasToldThereWouldBeNoMath.dll
